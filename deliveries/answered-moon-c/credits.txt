@@ -1,0 +1,52 @@
+Answered. — "What happens if the Moon disappears tomorrow?" (Variation C)
+OpenMontage shots: S03 S04 S05 S06 S08 — footage, music and SFX credits
+======================================================================
+
+FOOTAGE (all Pexels License: free for commercial use, no attribution required; credited here anyway)
+Clips were cropped to 9:16, regraded, and cut to the narration.
+
+S03_diwali
+  0.00–2.25  "Diwali Lamps" — Pexels video 14182074 (src 1.0–3.0s)
+             https://www.pexels.com/video/diwali-lamps-14182074/
+  2.25–4.40  "A Row of Burning Diya Lamps" — Pexels video 11758612 (src 4.0–6.2s)
+             https://www.pexels.com/video/a-row-of-burning-diya-lamps-11758612/
+S04_holi_rakhi
+  top half   "Close-up View of Hands with Colorful Powder" — Pexels video 11559966 (src 0.0–3.4s)
+             https://www.pexels.com/video/close-up-view-of-hands-with-colorful-powder-11559966/
+  bottom half (from 0.66s) "A Person Wearing Authentic Bracelet" (rakhi tying, hands only) — Pexels video 7685050 (src 0.5–3.2s)
+             https://www.pexels.com/video/a-person-wearing-authentic-bracelet-7685050/
+S05_eid
+  0.00–5.20  "The Moon is Seen in the Sky over a Mosque" — Pexels video 18953366 (src 1.0–6.2s)
+             https://www.pexels.com/video/the-moon-is-seen-in-the-sky-over-a-mosque-18953366/
+S06_turtles  (illustrative sea-turtle hatchling footage; location not Odisha)
+  0.00–2.96  "A Baby Turtle Crawling on a Beach Sand" — Pexels video 10041554 (src 2.0–5.0s)
+             https://www.pexels.com/video/a-baby-turtle-crawling-on-a-beach-sand-10041554/
+  2.96–4.58  "A Baby Turtle Crawling on a Beach Sand" — Pexels video 10041553 (src 1.0–2.7s)
+             https://www.pexels.com/video/a-baby-turtle-crawling-on-a-beach-sand-10041553/
+  4.58–8.33  "Baby Turtles On Shore" — Pexels video 855905 (src 1.0–4.8s)
+             https://www.pexels.com/video/baby-turtles-on-shore-855905/
+S08_tides
+  0.00–2.28  "Drone Footage of Seashore" — Pexels video 9789793 (src 3.0–5.3s)
+             https://www.pexels.com/video/drone-footage-of-seashore-9789793/
+  2.28–4.60  "Scenic Aerial View of Peaceful Tidal Flats" — Pexels video 32701061 (src 8.0–10.3s)
+             https://www.pexels.com/video/scenic-aerial-view-of-peaceful-tidal-flats-32701061/
+  4.60–5.30  "Serene Kuakata Sea Beach at Low Tide" (mangroves, Bangladesh) — Pexels video 34210380 (src 1.0–1.7s)
+             https://www.pexels.com/video/serene-kuakata-sea-beach-at-low-tide-34210380/
+  5.30–7.43  "Close-up of Marine Life in Tide Pool" — Pexels video 34617334 (src 2.0–4.1s)
+             https://www.pexels.com/video/close-up-of-marine-life-in-tide-pool-34617334/
+
+No CC BY clips were used, so no on-screen attribution is required.
+People: hands and silhouettes only; no identifiable faces.
+
+NARRATION
+  AI voiceover, Epidemic Sound Voice "Mia" (generated for this project under the account's Epidemic Sound licence).
+
+MUSIC (Epidemic Sound licence)
+  "Expansion" — Amaranth Cove (composer Gavin Luke). One continuous bed, sliced across S01–S10 in story order.
+
+SOUND EFFECTS (Epidemic Sound licence)
+  Water, Wave, Gentle Waves Splashing On Sandy Beach 01
+  User Interface, Click, Pops, Glass, UI, Pops
+  Designed, Whoosh, Soft Airy
+
+FONTS (SIL Open Font License): Montserrat, Caveat
