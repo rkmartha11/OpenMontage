@@ -1,0 +1,63 @@
+{
+  "duration": 54.5,
+  "fps": 30,
+  "voice": "Epidemic Sound Voice - Edward",
+  "lines": [
+    {
+      "index": 1,
+      "text": "You cut an onion. Seconds later, you're crying. That's the onion fighting back.",
+      "start": 0.3,
+      "end": 6.548
+    },
+    {
+      "index": 2,
+      "text": "An onion's cells keep two things apart: sulphur compounds, and an enzyme.",
+      "start": 6.998,
+      "end": 11.989
+    },
+    {
+      "index": 3,
+      "text": "Your knife breaks the cell walls, and they mix.",
+      "start": 12.439,
+      "end": 15.713
+    },
+    {
+      "index": 4,
+      "text": "That reaction makes a gas, syn-propanethial-S-oxide. Scientists think it evolved to stop animals from eating the onion.",
+      "start": 16.163,
+      "end": 23.891
+    },
+    {
+      "index": 5,
+      "text": "The gas drifts up and reaches your eyes. Nerves there sense the irritation, and your brain sends tears to wash it away.",
+      "start": 24.341,
+      "end": 32.593
+    },
+    {
+      "index": 6,
+      "text": "So those tears aren't sadness. They're a defence system working perfectly.",
+      "start": 33.043,
+      "end": 37.75
+    },
+    {
+      "index": 7,
+      "text": "Want fewer tears? Chill the onion first, because cold slows the gas down. And use a sharp knife, so fewer cells break.",
+      "start": 38.35,
+      "end": 47.167
+    },
+    {
+      "index": 8,
+      "text": "The onion can't run away. So it makes you cry instead.",
+      "start": 47.617,
+      "end": 51.667
+    },
+    {
+      "index": 9,
+      "text": "That's the short answer.",
+      "start": 52.267,
+      "end": 53.755
+    }
+  ],
+  "units": "seconds",
+  "note": "start/end = speech onset/offset of each narration line in narration.wav and body.mp4 (same timeline)"
+}

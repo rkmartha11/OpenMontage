@@ -1,0 +1,51 @@
+Answered. #03 - "Why do onions make you cry?" (WHY pillar) - body.mp4 credits
+=============================================================================
+
+SCIENTIFIC SOURCE
+-----------------
+Imai, S., Tsuge, N., Tomotake, M., Nagatome, Y., Sawada, H., Nagata, T. & Kumagai, H. (2002).
+"An onion enzyme that makes the eyes water." Nature 419, 685. doi:10.1038/419685a
+(Identifies lachrymatory factor synthase, the enzyme that produces syn-propanethial-S-oxide.)
+
+STOCK FOOTAGE
+-------------
+1. "Easy beef stew recipe - A Delicious Twist on a Classic Stew- Chinese Irish Beef Stew"
+   Author: Shokuiku Cuisine (via YouTube, Creative Commons upload)
+   Source: Wikimedia Commons
+   https://commons.wikimedia.org/wiki/File:Easy_beef_stew_recipe_-_A_Delicious_Twist_on_a_Classic_Stew-_Chinese_Irish_Beef_Stew.webm
+   License: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+   Used: 0:16.55-0:18.40 and 0:20.00-0:21.40 of the original (onion being cut).
+   Changes: cropped to 9:16, slowed to 0.8x / 0.9x, crossfaded, slow push-in, slight contrast/saturation lift.
+   Appears in body.mp4 at 0:06.55-0:10.18.
+   ATTRIBUTION REQUIRED (CC BY): include a credit such as
+   "Onion footage: Shokuiku Cuisine, CC BY 3.0, via Wikimedia Commons" in the video description.
+
+NARRATION
+---------
+Voice: "Edward" (Epidemic Sound Voices, AI text-to-speech voice), generated with the Epidemic Sound
+voiceover tool on 2026-11-13 under the channel owner's Epidemic Sound subscription.
+Covered by the Epidemic Sound licence for that subscription.
+
+MUSIC (body.mp4 only, not in narration.wav)
+-------------------------------------------
+"Small Suggestion" - Spectacles Wallet and Watch
+Epidemic Sound recording ID 696a5876-e4e1-39f8-b7f9-ec65bdfba1ed
+Licensed under the channel owner's Epidemic Sound subscription. The channel must be registered/whitelisted
+with Epidemic Sound to avoid Content ID claims.
+
+FONTS (chalkboard labels)
+-------------------------
+Cabin Sketch - Pablo Impallari / Impallari Type - SIL Open Font License 1.1 (Google Fonts)
+Patrick Hand - Patrick Wagesreiter - SIL Open Font License 1.1 (Google Fonts)
+
+SOFTWARE
+--------
+GSAP 3.14.2 (GreenSock) - standard no-charge licence. HyperFrames (render). FFmpeg (encode/mix).
+
+ORIGINAL ARTWORK
+----------------
+All chalk drawings, diagrams and animation were made for this video (no third-party illustrations).
+
+NOT USED
+--------
+No AI-generated images or video. No other stock clips.
